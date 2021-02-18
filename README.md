@@ -1,3 +1,3 @@
 # MyLearnings
-Added Performance Testing Mindmaps
-Added Video on My Learnings on JMeter
+1) Added Performance Testing Mindmaps
+2) Added Video on My Learnings on JMeter
