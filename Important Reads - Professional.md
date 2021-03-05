@@ -80,6 +80,29 @@ Blogs/Websites
 31.	http://www.sumondey.com/what-happens-behind-the-scenes-when-a-browser-renders-a-webpage/
 32.	https://techbeacon.com/app-dev-testing/performance-engineering-what-it-why-your-team-needs-it
 33.	https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a
+34.	https://therockertester.wordpress.com/2021/01/26/common-search-engine-questions-about-testing-7-is-software-testing-a-good-career/
+35.	https://makellysgreasyspoon.wordpress.com/2020/02/26/the-case-against-detailed-tests-cases-part-one/
+36.	https://medium.com/swlh/if-all-you-know-is-testing-every-bug-is-a-test-gap-eb699e9d092d
+37.	https://clarotesting.wordpress.com/2010/03/27/usability-and-security/
+38.	https://www.neotys.com/performance-advisory-council/archives
+39.	https://www.perfbytes.com/
+40.	https://moolya.com/deeptest/2021/01/21/financial-growth-for-people-in-engineering-roles/
+41.	https://codelabs.developers.google.com/
+42.	https://gist.github.com/wi24rd/2edc43b49b3d56b6eaddec729debfcab
+43.	https://opensource.guide/how-to-contribute/
+44.	https://www.huibschoots.nl/wordpress/?p=1361
+45.	https://www.satisfice.com/bibliography-exploratory-process
+46.	https://www.satisfice.com/risk-bibliography
+47.	https://www.satisfice.com/bibliography-coaching
+48.	https://www.satisfice.com/bibliography-usability
+49.	http://thepowertools.org/documentation.html
+50.	https://www.infoq.com/news/2017/07/github-testers/
+51.	https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+52.	https://www.spinxdigital.com/blog/common-web-design-languages-what-they-do-and-why-you-need-them/
+53.	https://opensource.google/projects/explore/featured
+54.	https://opensource.googleblog.com/
+55.	https://google.github.io/eng-practices/review/reviewer/
+56.	https://docs.google.com/spreadsheets/d/1v4fU5IOXnvL3pzr9ogg5BIEa-MYl-NXXpba07fwfiAk/edit#gid=0
 
 
 Videos (Single or Series)
@@ -90,8 +113,12 @@ Videos (Single or Series)
 5.	Selenium Conferences
 6.	Learn about Selectors & DOM
 7.	The Test Chat
-8.	GoogleTechTalks
-9.	Java Beans
-10.	sentdex
-11.	TechWorldwithNana
-12.	thenewboston
+9.	GoogleTechTalks
+10.	Java Beans
+11.	sentdex
+12.	TechWorldwithNana
+13.	thenewboston
+14.	https://www.youtube.com/c/LifeatGoogle/playlists
+15.	https://github.com/upgundecha/se-powertools-recipes
+16.	https://www.youtube.com/playlist?list=PLhf0dn_pMIK9n-XPWEV7l2PXrR_-WmCWN
+17.	https://www.youtube.com/playlist?list=PLJ9A48W0kpRLziLy043Fck1Q_2OHqVR0A
