@@ -103,6 +103,7 @@ Blogs/Websites
 54.	https://opensource.googleblog.com/
 55.	https://google.github.io/eng-practices/review/reviewer/
 56.	https://docs.google.com/spreadsheets/d/1v4fU5IOXnvL3pzr9ogg5BIEa-MYl-NXXpba07fwfiAk/edit#gid=0
+57.	https://www.youtube.com/watch?v=gb1yUQJrN04
 
 
 Videos (Single or Series)
