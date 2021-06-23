@@ -104,6 +104,42 @@ Blogs/Websites
 55.	https://google.github.io/eng-practices/review/reviewer/
 56.	https://docs.google.com/spreadsheets/d/1v4fU5IOXnvL3pzr9ogg5BIEa-MYl-NXXpba07fwfiAk/edit#gid=0
 57.	https://www.youtube.com/watch?v=gb1yUQJrN04
+58.	https://www.linkedin.com/posts/abhijeetvaikar_quality-manifesto-activity-6813311591497502721-fmDr
+59.	https://www.linkedin.com/posts/gwyneth-pena_madebygpsself-taught-guide-to-cloud-computing-activity-6812092159399882752-rUHv
+60.	https://enjoytesting.blogspot.com/p/books.html?m=1
+61.	https://docs.google.com/spreadsheets/d/1D_87F8PpX-zCgTBtdBxg6R5E0QyVWzmzPQcQho7CkhE/edit?usp=drivesdk
+62.	https://www.linkedin.com/posts/naveenkhunteta_best-free-e-commerce-rest-apis-to-practice-activity-6801333223323398144-cA1H
+63.	https://towardsdatascience.com/3-ways-to-drastically-improve-your-programming-skills-on-your-own-9359ce670099
+64.	https://levelup.gitconnected.com/everything-i-automated-in-2020-to-save-me-hours-of-time-14510a1a17d0
+65.	https://www.youtube.com/watch?v=8aGhZQkoFbQ
+66.	https://www.linkedin.com/posts/isaacfaber_machinelearning-activity-6783117141412507649-zUmo
+67.	https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e
+68.	https://www.youtube.com/watch?v=MN1jxnmqFhM
+69.	https://www.youtube.com/watch?v=BYUy1yvjHxE&feature=youtu.be
+70.	https://www.youtube.com/watch?reload=9&app=desktop&v=Zq2VcRZmz78
+71.	https://www.linkedin.com/posts/abhijeetvaikar_leadingquality-quality-software-activity-6763855840584826881-eX0w
+72.	https://m.youtube.com/watch?v=P1O-tpeWdHQ&feature=youtu.be
+73.	https://richardstep.com/rswatest/strengthstest_results.php
+74.	https://www.linkedin.com/posts/johannasouth_an-end-to-end-api-testing-guide-all-you-activity-6759945603532251136-9LK9
+75.	https://www.linkedin.com/pulse/user-stories-negotiation-between-problems-solutions-bhattacharya-1c
+76.	https://www.linkedin.com/posts/realpython-com_starting-a-django-project-real-python-activity-6756238671747289088--7gV
+77.	https://www.linkedin.com/posts/chropath-creator_10-actionable-tips-to-excel-as-a-test-automation-activity-6756096666417418240-7nKJ
+78.	https://www.linkedin.com/posts/satyanadella_software-development-in-2021-and-beyond-activity-6755541683980656640-z-HL
+79.	https://gumroad.com/l/aws-good-parts
+80.	https://gist.github.com/wi24rd/2edc43b49b3d56b6eaddec729debfcab
+81.	https://www.pythonmaster.co.in/
+82.	https://www.linkedin.com/posts/noemiferrera_test-architecture-in-a-nutshell-activity-6643557057268150272-_m8Z
+83.	https://increment.com/teams/
+84.	https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon?cmpid=SMLIAA2173B
+85.	https://continuoustesting.blog/2020/01/17/most-recommended-software-testing-books-to-read-in-2020-and-beyond/
+86.	https://limitexception.com/another-7-habits-for-developing-a-technical-architect-mindset-448c9f3fec13
+87.	http://pushcodeongithub.blogspot.com/
+88.	https://www.joecolantonio.com/mobile-testing/
+89.	https://amp.businessinsider.com/books-to-read-over-long-weekend-2017-5
+90.	https://techbeacon.com/how-create-killer-automated-functional-tests?utm_sq=fw62sep0dp&utm_source=linkedin&utm_medium=social&utm_campaign=nikolay+advolodkin&utm_content=my+guest+posts
+91.	https://medium.freecodecamp.org/how-to-build-a-fully-scalable-architecture-with-aws-5c4e8612565e?source=userActivityShare-6334bd7d3a16-1533710084&gi=e2701c39776c
+92.	https://www.automatetheplanet.com/generations-test-automation-frameworks/#disqus_thread
+
 
 
 Videos (Single or Series)
