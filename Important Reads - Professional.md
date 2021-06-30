@@ -139,7 +139,7 @@ Blogs/Websites
 90.	https://techbeacon.com/how-create-killer-automated-functional-tests?utm_sq=fw62sep0dp&utm_source=linkedin&utm_medium=social&utm_campaign=nikolay+advolodkin&utm_content=my+guest+posts
 91.	https://medium.freecodecamp.org/how-to-build-a-fully-scalable-architecture-with-aws-5c4e8612565e?source=userActivityShare-6334bd7d3a16-1533710084&gi=e2701c39776c
 92.	https://www.automatetheplanet.com/generations-test-automation-frameworks/#disqus_thread
-
+93.	http://async.codes/calculating-rps-azure-analytics/
 
 
 Videos (Single or Series)
