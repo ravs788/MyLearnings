@@ -1,6 +1,6 @@
 Books
 1)	The Great Mental Models Project - Vol 1, 2
-2)	Deep Work - Cal Newport
+2)	Deep Work - Cal Newport - Completed
 3)	The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper On Computability
 4)	The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
 5)	Grit: Why passion and resilience are the secrets to success
